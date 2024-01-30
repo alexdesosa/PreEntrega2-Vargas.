@@ -36,11 +36,25 @@
 
 .product-1 {
     background-color: #1b1726;
+    border-radius: 5px;
 }
 
 .product-txt{
     padding: 50px 30px;
     color: #ffffff;
+}
+
+
+.margherita{
+    padding-bottom: 50px;
+}
+
+.cuatro-quesos{
+    padding-bottom: 25px;
+}
+
+.pepperoni{
+    padding-bottom: 20px;
 }
 
 h3{
@@ -79,6 +93,7 @@ h3{
 
 .product-1 img{
         width: 100%;
+        border-radius: 5px;
     }
 
     /* Fin de la página de productos */
